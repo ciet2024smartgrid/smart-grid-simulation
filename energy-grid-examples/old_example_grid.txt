@@ -1,0 +1,12 @@
+nodes
+0 House -100
+1 Office -700
+2 Office -700
+3 Train -500
+4 SolarPanel 150
+5 NuclearPowerStation 1000
+links
+4 0 1000
+5 1 5000
+5 2 5000
+1 3 1000

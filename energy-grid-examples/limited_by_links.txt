@@ -1,0 +1,5 @@
+nodes
+0 House -100
+1 PowerStation 100
+links
+1 0 50

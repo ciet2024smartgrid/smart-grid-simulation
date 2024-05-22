@@ -1,0 +1,4 @@
+nodes
+0 Isolated -100
+1 Source 100
+links

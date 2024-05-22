@@ -1,0 +1,7 @@
+nodes
+0 Source1 100
+1 Source2 100
+2 Consumer -200
+links
+0 1 100
+1 2 200
